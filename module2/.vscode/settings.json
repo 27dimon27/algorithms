@@ -1,0 +1,21 @@
+{
+    "C_Cpp.default.compilerPath": "C:/mingw64/bin/g++.exe",
+    "files.associations": {
+        "charconv": "cpp",
+        "optional": "cpp",
+        "format": "cpp",
+        "ranges": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "new": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp"
+    }
+}
